@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: docstring
+# key: doc
+# --
+-- `file-name`
+-- Date:   `current-time-string`
+-- Author:    ${1:Yannick Reiß}
+-- E-Mail:    ${2:yannick.reiss@protonmail.ch}
+-- Copyright: $3
+-- Content:   ${4:`file-name`}
